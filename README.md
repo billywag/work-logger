@@ -1,4 +1,4 @@
-# quickSearch
+# work-logger
 Work Logger
 
 ## Description
